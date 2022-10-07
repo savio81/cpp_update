@@ -1,8 +1,4 @@
-               
-                i = i +2;       
-            
-    } cout<< sum;
-}
+
 */
 
 #include <iostream>
